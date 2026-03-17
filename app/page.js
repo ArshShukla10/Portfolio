@@ -47,7 +47,8 @@ export default function Home() {
           transition={{ delay: 0.4 }}
           className="flex gap-6 text-2xl mb-6"
         >
-          <a href="#" target="_blank">
+          <a href="https://github.com/dashboard" target="_blank"  rel="noopener noreferrer"
+>
             <FaGithub className="hover:text-indigo-400 cursor-pointer" />
           </a>
           <a href="https://www.linkedin.com/in/arsh-shukla-183206376/" target="_blank"  rel="noopener noreferrer"
